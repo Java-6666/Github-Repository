@@ -11,7 +11,7 @@ public class Test01 {
     @Test
     public void test01(){
         System.out.println("Hello world!");
-        Collection arr=new ArrayList();
+        System.out.println("Hello world!");
     }
     @Test
     public void test02(){
