@@ -34,4 +34,10 @@ public class Test01 {
         }
         System.out.println(Arrays.toString(arr));
     }
+    @Test
+    public void test04(){
+        double d1=4.0;
+        double d2=3.6;
+        System.out.println(d1-d2);//0.3999999999999999
+    }
 }
